@@ -1,0 +1,13 @@
+import { execFileSync } from 'node:child_process';
+for (const bundle of ['matching','photos','scenes']) execFileSync('tar',['-xzf',bundle+'.tar.gz']);
+import { mkdir, copyFile, cp, rm, readFile } from 'node:fs/promises';
+import vm from 'node:vm';
+const ctx={window:{}};vm.runInNewContext(await readFile('chapters.js','utf8'),ctx);
+await rm('dist',{recursive:true,force:true});
+await mkdir('dist/assets/scenes',{recursive:true});
+for(const f of ['index.html','styles.css','app.js','chapters.js'])await copyFile(f,`dist/${f}`);
+await cp('assets/photos','dist/assets/photos',{recursive:true});
+await cp('assets/matching','dist/assets/matching',{recursive:true});
+const scenes=new Set(ctx.window.LOVELYN_CHAPTERS.flatMap(c=>[c.sceneDay,c.sceneNight]));
+for(const f of scenes)await copyFile(`assets/scenes/${f}.webp`,`dist/assets/scenes/${f}.webp`);
+console.log(`${scenes.size} illustrations packaged in dist/`);

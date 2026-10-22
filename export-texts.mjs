@@ -1,0 +1,15 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import vm from 'node:vm';
+const context={window:{}};vm.runInNewContext(await readFile('chapters.js','utf8'),context);
+const list=context.window.LOVELYN_CHAPTERS;
+let text='# Lovelyn · Todos los textos para revisar\n\nVersión de 22 parejas. Los textos sin atribución son borradores personales para Eddy y Jocelyn. Las citas atribuidas se distinguen de esos borradores.\n\n## Entrada\n\n- Para mi bebelyyyn\n- Un pequeño detalle, porque te amo.\n- No hay una razón especial, mi amor. Simplemente te amo y me dieron ganas de crearte algo bonito.\n- Mira lo que te hice, lyncita ↗\n- Psst… toca a los personajes. Te escondí algo ♡\n- Con mucho amor, Eddy.\n\n';
+list.forEach((c,i)=>{text+=`## ${i+1}. ${c.names} — ${c.anime}\n\n`;
+for(const [key,label] of [['title','Título'],['accent','Continuación del título'],['text','Texto principal'],['note','Título de la carta'],['letter','Carta'],['closing','Cierre de la carta'],['noteDay','Nota de día'],['noteNight','Nota de noche'],['note2','Segunda notita']]) text+=`**${label}:** ${c[key]}\n\n`;
+if(c.quote)text+=`**Cita mostrada en la segunda notita (en lugar del borrador):** “${c.quote}” — ${c.quoteBy}\n\n`;
+if(c.poem)text+=`**Poema:**\n\n${c.poem.split('\n').map(s=>'> '+s).join('\n')}\n\nTite Kubo · Bleach, tomo 60.\n\n`;
+c.captions.forEach((s,n)=>{text+=`**Foto ${n+1}:** ${s}\n\n**Detrás de la foto ${n+1}:** ${c.photoNotes[n]}\n\n`;});
+text+=`**Canción:** ${c.songName || "Pendiente"} — ${c.songUrl || ""}\n\n`;
+});
+text+='## Sorpresa de matching icons (igual en todas las parejas)\n\n- Uno para ti, otro para mí.\n- Para llevar un poquito de nosotros, incluso en la foto de perfil.\n- Para ti ♡ / Para mí ♡\n- Guardar mi fotito ↓\n- ¿Nos ponemos estas, mi amor?\n\n## Botones y cierre\n\n- Una notita para ti ♡\n- Detrás te dejé algo ♡ / Guardar la notita ♡\n- Desliza, mi amor ↓ / Otro poquito de nosotros ↓\n- Te amo mucho. — Eddy ♡\n- Con amor, Eddy.\n';
+await writeFile('TEXTOS_PARA_EDDY.md',text);
+console.log('Exported texts for '+list.length+' couples');

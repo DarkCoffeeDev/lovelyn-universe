@@ -1,0 +1,1 @@
+{"name":"lovelyn-en-cada-universo","version":"1.0.0","private":true,"description":"Regalo romántico interactivo para Jocelyn","scripts":{"build":"node build.mjs","check":"node --check app.js && node --check chapters.js && node verify.mjs"}}
