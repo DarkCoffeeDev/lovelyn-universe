@@ -4,18 +4,18 @@ Versión de 22 parejas. Los textos sin atribución son borradores personales par
 
 ## Entrada
 
-- Para mi bebelyyyn
+- Para mí bebelyyyn 🥺
 - Un pequeño detalle, porque te amo.
-- No hay una razón especial, mi amor. Simplemente te amo y me dieron ganas de crearte algo bonito.
-- Mira lo que te hice, lyncita ↗
-- Psst… toca a los personajes. Te escondí algo ♡
-- Con mucho amor, Eddy.
+- Te amo mi niña hermosa, ojalá disfrutes de este pequeño regalo que te hice solo por bonita 🤭 mwaaa te mando un beso, y adelante, lee todo lo que quieras
+- Mira mi amor
+- Psst un secretito te encontrarás si tocas los dibujos 💗
+- Con mucho amooor, tu noviecito 💗
 
 ## 1. Obanai & Mitsuri — Kimetsu no Yaiba
 
-**Título:** Mira, mi amor…
+**Título:** Tú y yo mi amor 💗
 
-**Continuación del título:** sí somos jajaj.
+**Continuación del título:** Si somos jajaj
 
 **Texto principal:** Hola mi amor💗 para empezar con este regalito nos pongo a nosotros, tu tan bonita como mitsuri con tu cabello rosita, y yo con mi cabello negro, simplemente te prometo amarte tanto como el la ama a ella mi bebelyyyn💗
 
@@ -25,13 +25,11 @@ Versión de 22 parejas. Los textos sin atribución son borradores personales par
 
 **Cierre de la carta:** De pies a cabeza, mi amor. Todo de ti me encanta.
 
-**Nota de día:** Una tarde aquí contigo, por favor.
+**Nota de día:** Me quedaría mirando la luna contigo.
 
 **Nota de noche:** Me quedaría mirando la luna contigo.
 
-**Segunda notita:** Amo tus ojitos hermosos 💗
-
-**Cita mostrada en la segunda notita (en lugar del borrador):** “Tu risa era como el sonido de campanas.” — Obanai
+**Segunda notita:** Aunque probablemente te miraría más a ti que a la luna 🤭
 
 **Foto 1:** Amo tus ojitos 💗
 
@@ -41,7 +39,7 @@ Versión de 22 parejas. Los textos sin atribución son borradores personales par
 
 **Detrás de la foto 2:** De pies a cabeza, mi amor. Todo de ti me encanta.
 
-**Foto 3:** Mira que lindos 💗
+**Foto 3:** Te amo mucho bebé 💗
 
 **Detrás de la foto 3:** yo pensaba que mitsuri ya era linda, pero desde que te vi, me he dado cuenta de que eres la mujer más hermosa, y le ganas por mucho 💗 aveces ni yo me creo que todo eso me ando comiendo a besos 🤭
 
@@ -53,31 +51,31 @@ Versión de 22 parejas. Los textos sin atribución son borradores personales par
 
 **Continuación del título:** y ya estoy feliz.
 
-**Texto principal:** Me encanta que contigo sea tan fácil hablar, mi amor. Empiezo contándote cualquier cosa y ya no me quiero ir jajaj 💗
+**Texto principal:** Me encanta y amo hablar contigo mi amor 💗 contigo hablar es tan lindo y tan sencillo que puedo pasar horas y nunca aburrirme de hacerlo 🤭
 
 **Título de la carta:** Un ratito contigo, bebelyyyn
 
-**Carta:** Me dan muchas ganas de tenerte cerquita, poner un anime y escucharte comentar todo. Aunque seguro terminaría viéndote más a ti, pq se me hace que estás demasiado bonita 🤭
+**Carta:** Hola mi amor preciosa 🥺 me da gusto que estés leyendo esto, que sepas que amo darte, y no nomas regalos 🤭 JAJSJS pero si, te amo mi niña, esta pareja me gusta mucho 🥺 la puse porque son bien lindos. Me gusta ver lo mucho que se quieren, y yo también quiero consentirte mucho mi amor 💗 pero sigue leyendo cariño, te amo, y todo esto es para ti 🥺💗
 
-**Cierre de la carta:** Qué suerte la mía de coincidir contigo, lyncita.
+**Cierre de la carta:** Te amo, mi linda Jocelyn no tienes idea de lo mucho MUCHOOO que me gustaaaas 🤭
 
-**Nota de día:** Tú eliges qué vemos, yo te lleno de besitos.
+**Nota de día:** Que suerte tuve de conocerte mi amor 🥺
 
-**Nota de noche:** Qué suerte la mía de coincidir contigo, lyncita.
+**Nota de noche:** Que suerte tuve de conocerte mi amor 🥺
 
 **Segunda notita:** Te debo un abrazo bien largo 💗
 
 **Cita mostrada en la segunda notita (en lugar del borrador):** “Gracias por querer un futuro conmigo.” — Horimiya
 
-**Foto 1:** Ven, abrázame así
+**Foto 1:** Adoro tu cabello mi amor 💗
 
 **Detrás de la foto 1:** Te debo un abrazo bien largo 💗
 
-**Foto 2:** Aquí quiero estar contigo
+**Foto 2:** Te amo mi bebelyyyn
 
-**Detrás de la foto 2:** Tú eliges qué vemos, yo te lleno de besitos.
+**Detrás de la foto 2:** Ya quiero tenerte, besarte, y amarte mucho 💗
 
-**Foto 3:** No te me vayas todavía
+**Foto 3:** Si lees esto me debes una bebé 🥺
 
 **Detrás de la foto 3:** Qué suerte la mía de coincidir contigo, lyncita.
 
@@ -89,15 +87,15 @@ Versión de 22 parejas. Los textos sin atribución son borradores personales par
 
 **Continuación del título:** cómo eres tú.
 
-**Texto principal:** Me encanta lo divertida que eres, lyncita. A veces me haces reír con cualquier cosita y yo nomás pienso: cómo me gusta esta mujer 💗
+**Texto principal:** Me encanta como eres mi amor, amo todo de ti, y me tienes tan enamorado que el 100% de mi día me la paso pensando en la hermosa mujer que tengo a mi lado 🤭
 
 **Título de la carta:** Así, tal como eres
 
-**Carta:** Me gusta que podamos hablar de anime, bromear y luego ponernos bien románticos jajaj. No tienes que hacer nada especial para gustarme, mi amor, siendo tú ya me tienes todo enamorado.
+**Carta:** Olaaaa 🥺, ay mi amor estos de aquí sabes cómo me gustan, son bien lindos, y así como susuki le dijo a tani, yo también quiero ser tu lugar seguro 💗 conmigo nunca necesitarás preocuparte por nada, porque te amo, con todo mi corazón, y nada cambiará eso 🥺, solo quiero besarte, tenerte conmigo y hacerte saber que siempre tendrás a alguien para amarte, cuidarte y besarte también  porque no? 🤭
 
-**Cierre de la carta:** Contigo hasta decir tonterías se siente bonito jajaj.
+**Cierre de la carta:** Tu cabello rosita me recuerda a ella, pero obvio, mi bebé es más linda 😛
 
-**Nota de día:** Tú sigue haciéndome reír, yo sigo enamorándome.
+**Nota de día:** Contigo hasta decir tonterías se siente bonito jajaj.
 
 **Nota de noche:** Contigo hasta decir tonterías se siente bonito jajaj.
 
@@ -105,15 +103,15 @@ Versión de 22 parejas. Los textos sin atribución son borradores personales par
 
 **Foto 1:** Qué bonita estás, amor
 
-**Detrás de la foto 1:** Me gusta muchísimo cómo eres 💗
+**Detrás de la foto 1:** Te adorooo, háblame más mi amor 🥺 cuéntame todo, que aquí tienes a un tonto enamorado que te escuchará todo 💗
 
-**Foto 2:** Otro ratito contigo
+**Foto 2:** Quiero robarte y no solo un beso 💗
 
-**Detrás de la foto 2:** Tú sigue haciéndome reír, yo sigo enamorándome.
+**Detrás de la foto 2:** Te puedo hacer el amor? 🤭
 
-**Foto 3:** Me gusta verte feliz
+**Foto 3:** Voy a acariciar tu cabello algún día 🤭
 
-**Detrás de la foto 3:** Contigo hasta decir tonterías se siente bonito jajaj.
+**Detrás de la foto 3:** Te voy a hacer mi novia, que no se te olvide eh? 💗 todas las veces que sean necesarias
 
 **Canción:** 運命の君 — https://open.spotify.com/track/7yXDBF1sD0ouJniM3gnEZS?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=9d56785b-b368-4d0b-a8f5-228256cb37db
 
@@ -123,21 +121,17 @@ Versión de 22 parejas. Los textos sin atribución son borradores personales par
 
 **Continuación del título:** mi solecito.
 
-**Texto principal:** Si me preguntas qué me gusta de ti, vamos a tardar un ratito, mi amor. Tus ojitos, tu risa, tu voz… y eso apenas es el comienzo 💗
+**Texto principal:** Sabes? Si me preguntaras que eres para mí amor, sin duda te diría que mi mujer 😻, pero si me agarras sentimental te diría que para mí eres como el sol 💗
 
 **Título de la carta:** En esta vida y en las que me dejaran, mi amor 💗
 
-**Carta:** Mi amor, hay una parte de Bleach que siempre me hace pensar en ti. Orihime desea vivir cinco vidas y volver a enamorarse de la misma persona. Y yo también quisiera tener más vidas, bebelyyyn, aunque fuera nomás para tener más tiempo contigo.
+**Carta:** Mwaaak, cómo estás cariño? 🥺 quería dedicarte este poema, porque para mí de verdad eres como el sol, incluso con todo lo que tú puedas ver mal en ti, iluminas mi vida día con día, me apoyas y me amas 💗 lo mínimo que yo puedo hacer es darte este tipo de cosas para que sepas lo mucho que te amo y lo mucho que agradezco tu compañía 🥺, que no se te olvide mi amor, te amo con todoooo mi corazoncito, soy tuyo princesa, y gracias a dios soy el único afortunado de decir que esa mujer tan hermosa es mía 🤭
 
-Si pudiera empezar otra vez, me gustaría volver a conocerte. Volver a escuchar tu voz por primera vez, descubrir lo divertida que eres y quedarme todo tonto viendo tus ojitos. Seguro volvería a buscar cualquier excusa para hablarte jajaj.
-
-Me recuerdas mucho a Orihime, también por aquel color de cabello tan parecido que tuviste. Te veías preciosa, mi amor, aunque tú ya sabes que a mí me encantas con todos tus colores. Y ni se diga de lo hermosa que estás de pies a cabeza 🤭
-
-Eso sí, mientras vemos si existen esas otras vidas, en esta quiero seguir conquistándote, hacerte reír y darte todos los besos que te debo. Te amo muchísimo, Jocelyn 💗
+Me gusta mucho esta pareja, son muy lindos, y al igual que orihimi, si yo renaciera y tuviera 5 vidas distintas, habría hecho muchas cosas distintas, pero estaría feliz porque se que en esas 5 vidas, me habría enamorado de ti y solo de ti 💗 te amo, y yo digo que si nos parecemos 🥺 me acuerdo de tu cabello cobrizo y de los demás tonos que has tenido y pienso que si te pareces a orihime, pero mi mujer preciosa siempre va a ser mi favorita 😻 JAJSJS, te amo 💗
 
 **Cierre de la carta:** “Me enamoraría de la misma persona cinco veces.” — Orihime
 
-**Nota de día:** Amo lo bonita que eres conmigo 💗
+**Nota de día:** Te elegiría otra vez, mi amor.
 
 **Nota de noche:** Te elegiría otra vez, mi amor.
 
@@ -152,15 +146,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Foto 1:** Yo también te miro así
 
-**Detrás de la foto 1:** Esos labios tuyos me traen bien enamorado 🤭
+**Detrás de la foto 1:** Ya te dije que me encantas? 😻
 
-**Foto 2:** Te llenaría de besitos
+**Foto 2:** Te llenaría siempre y no solo de besitos 🥺
 
-**Detrás de la foto 2:** Amo lo bonita que eres conmigo 💗
+**Detrás de la foto 2:** Amo lo linda que eres conmigo siempre mi amor 💗
 
-**Foto 3:** Qué ganas de tenerte aquí
+**Foto 3:** Que ganas tengo de tenerte conmigo 💗
 
-**Detrás de la foto 3:** Te elegiría otra vez, mi amor.
+**Detrás de la foto 3:** I love u, to the moon and back 🥺
 
 **Canción:** サンキュー！！ — https://open.spotify.com/track/3Zt96GJIqDOu0SucdGNGTX?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=9d56785b-b368-4d0b-a8f5-228256cb37db
 
@@ -170,19 +164,19 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** que me encanta.
 
-**Texto principal:** Me encanta escucharte reír, mi amor. A veces con oír tu voz ya me dan más ganas de quedarme hablando contigo otro ratito 💗
+**Texto principal:** Me encanta escucharte mi amor, tu risa es tan linda y contagiosa que aveces hago tonterías solo para verte reír o hago cosas románticas, solo para ver esa sonrisa hermosa que tanto adoro 💗
 
 **Título de la carta:** Para esa risa que adoro
 
-**Carta:** Me gusta que contigo no tengo que pensar tanto qué decir. Podemos hablar de cualquier cosa y yo la paso bonito. Ojalá pronto pueda escucharte reír cerquita y darte un besito después.
+**Carta:** Seguimos aquí 🥺 hola mi amor, estos de aquí me parecen muy lindos 😭 su relación siempre me dio risa porque pasaban cosas muy chistosas, se llevaban tan bien que me recordaba a ti y a mi, de verdad no tienes idea de lo mucho que te amo 💗 desde el primer día que hemos estado hablando juntos nunca me he cansado de hablar contigo, me encantas, amo que contigo sea tan sencillo hablar, y aunque aveces me ponga nervioso de estar hablando con una mujer tan hermosa 🥺 siempre quiero un poco más de ti, así que, se miaaaaa Chi? 🤭 yo sé que ya lo eres pero todavía mas, lléname de tus historias, tus palabras, tus frases románticas, sígueme diciendo te amo, siempre siempre siempre 💗
 
 **Cierre de la carta:** Con esa carita cómo no voy a quererte tanto.
 
-**Nota de día:** Qué ganas de verte y abrazarte, bebelyyyn.
+**Nota de día:** Yo se que soy mayor que tú, pero adoro que me digas bebé sabes? 🤭
 
-**Nota de noche:** Con esa carita cómo no voy a quererte tanto.
+**Nota de noche:** Yo se que soy mayor que tú, pero adoro que me digas bebé sabes? 🤭
 
-**Segunda notita:** Tu risa es de mis cosas favoritas 💗
+**Segunda notita:** Tu sonrisa es tan bella que con solo verte en mi fondo de pantalla, tengo fuerzas para todo el día 💗
 
 **Foto 1:** Tu sonrisa me encanta
 
@@ -204,15 +198,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** Otra vez nosotros.
 
-**Texto principal:** Yo con el cabello oscuro y tú con el rosita… ya tenemos otro matching, mi amor jajaj. Aunque tú me gustas con todos los colores 💗
+**Texto principal:** Ese rosita tuyo me trae bien enamorado 🤭 y aunque mañana te lo pintes de otro color, ya sé que voy a querer presumirte igual 💗
 
 **Título de la carta:** Mi lyncita de cabello rosita
 
-**Carta:** Te queda precioso ese cabello, pero la verdad es que todavía no encuentro algo que no me guste de ti. Me encanta tu piel morenita, tus ojitos y esa sonrisa que me trae todo tonto 🤭
+**Carta:** Mi amor 🥺 aquí volvió a salir el cabello rosita JAJSJS. Pero sabes qué me gusta más? Que debajo de todos esos colores sigues siendo tú, mi niña divertida, la que siempre tiene algo que contarme y me deja sonriendo al teléfono. Te adoro Jocelyn 💗
 
-**Cierre de la carta:** Qué preciosa estás, mi amor.
+**Cierre de la carta:** Te debo un beso en la frente, princesa.
 
-**Nota de día:** Un besito y luego otro, pq uno no me alcanza.
+**Nota de día:** Qué preciosa estás, mi amor.
 
 **Nota de noche:** Qué preciosa estás, mi amor.
 
@@ -238,15 +232,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** bien bonito.
 
-**Texto principal:** Me encanta que contigo puedo ponerme romántico y al ratito estar riéndome de cualquier tontería. Qué bonito me la paso contigo, mi amor 💗
+**Texto principal:** Contigo puedo pasar de decirte algo romántico a reírme como tonto 😭 me gusta mucho eso de nosotros, bebé 💗
 
 **Título de la carta:** Mi persona para reírnos de todo
 
-**Carta:** Me gustan muchísimo tus ocurrencias. Ya me imagino saliendo contigo y riéndonos por cualquier cosa. Eso sí, entre risa y risa te voy a robar unos besitos, avisada estás 🤭
+**Carta:** Oye mi amor, yo sí quiero que nos sigamos haciendo reír así 🤭 que me cuentes tus ocurrencias, que nos burlemos de nuestras tonterías y que después me dejes abrazarte. De verdad adoro lo divertida que eres, nunca cambies esa parte tan linda de ti 💗
 
-**Cierre de la carta:** Nos faltan muchas tonterías por hacer juntos.
+**Cierre de la carta:** Mi compañera de tonterías favorita 🤭
 
-**Nota de día:** Tú ríete, que yo te sigo mirando todo enamorado.
+**Nota de día:** Nos faltan muchas tonterías por hacer juntos.
 
 **Nota de noche:** Nos faltan muchas tonterías por hacer juntos.
 
@@ -274,15 +268,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** qué bonito encontrarte.
 
-**Texto principal:** Contigo quiero los planes bonitos y también los medio raros jajaj. Mientras sea contigo, mi amor, seguro tenemos algo de qué reírnos 💗
+**Texto principal:** Me encanta tener a quién mandarle las cosas raras que encuentro JAJSJS y que esa persona sea mi mujer preciosa, todavía más 🤭
 
 **Título de la carta:** Tú y yo haciendo de las nuestras
 
-**Carta:** Me encanta que compartamos el gusto por el anime. Poder enseñarte algo que me emociona y saber que tú también lo disfrutas se siente bien bonito. Ya quiero más ratitos así contigo, lyncita.
+**Carta:** Bebelyyyn 🥺 estos dos me dan mucha risa, por eso quería ponerlos aquí. Me gusta imaginarte comentando cada escena conmigo, haciendo tus caras y riéndote. Al final seguro te preguntaría algo del capítulo porque me distraje mirándote a ti 😭💗
 
-**Cierre de la carta:** Me gustas demasiado, bebelyyyn.
+**Cierre de la carta:** Sí te estaba poniendo atención… a tu carita 🤭
 
-**Nota de día:** Hasta en una aventura rara te pediría un besito jajaj.
+**Nota de día:** Me gustas demasiado, bebelyyyn.
 
 **Nota de noche:** Me gustas demasiado, bebelyyyn.
 
@@ -308,15 +302,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** si estás tú.
 
-**Texto principal:** Te veo y de vdd me siento el hombre más afortunado. Qué mujer tan preciosa me tocó querer, mi amor, y qué increíble eres por dentro 💗
+**Texto principal:** Amo tu piel morenita y tus ojos, mi amor 🥺 pero lo que más me tiene aquí es esa forma tan linda de ser que tienes 💗
 
 **Título de la carta:** Un abrazo de esos que me faltan
 
-**Carta:** Me dan muchas ganas de abrazarte y quedarme ahí un ratito. Decirte de cerquita lo mucho que te amo y ver esa carita tuya mientras te lleno de cariño. Te adoro, Jocelyn.
+**Carta:** Hola princesa 💗 quería dejarte esto aquí para cuando se te olvide lo increíble que eres. Yo veo a una mujer hermosa, divertida y con un corazón que adoro. Me da mucho gusto poder conocerte así, con todo lo que me vas contando de ti 🥺
 
-**Cierre de la carta:** Eres preciosa de pies a cabeza, mi amor.
+**Cierre de la carta:** Qué orgulloso estoy de mi mujer 💗
 
-**Nota de día:** Qué bonito sería estar así contigo.
+**Nota de día:** Eres preciosa de pies a cabeza, mi amor.
 
 **Nota de noche:** Eres preciosa de pies a cabeza, mi amor.
 
@@ -342,15 +336,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** cuando estoy contigo.
 
-**Texto principal:** Aunque estemos lejos, siempre encuentro algo que quiero contarte. Veo una cosita bonita y pienso: esto le gustaría a mi lyncita 💗
+**Texto principal:** Aunque estemos lejos, me sigues acompañando en tantas cosas 🥺 siempre hay algo que veo y te quiero enseñar, mi amor 💗
 
 **Título de la carta:** Pensé en ti, como siempre
 
-**Carta:** Este regalito salió de eso, mi amor: de pensar en ti y querer hacerte sonreír. Me gusta compartir contigo las cosas que nos emocionan. Y me encanta que ahora tengamos todos estos ships aquí.
+**Carta:** Lyncita, de repente encuentro una canción, una imagen o una tontería y ya te la quiero mandar 😭 me gusta que seas esa persona en la que pienso. Por ahora te comparto este rinconcito, y cuando estemos juntos quiero enseñarte muchas cosas de la manita 💗
 
-**Cierre de la carta:** Ya quiero compartir más ratitos contigo.
+**Cierre de la carta:** Esto también lo hice pensando en ti, obviamente 🤭
 
-**Nota de día:** Te mando un besito, de esos que duran.
+**Nota de día:** Ya quiero compartir más ratitos contigo.
 
 **Nota de noche:** Ya quiero compartir más ratitos contigo.
 
@@ -376,15 +370,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** ser tan tú.
 
-**Texto principal:** Amo que seas tan tú, mi amor. Lo divertida, lo bonita y lo increíble que eres. No es solo que me encantes por fuera, es que adoro cómo eres 💗
+**Texto principal:** Tienes una forma de ser que me encanta, bebé. Me gusta escucharte decir lo que piensas y conocerte más cada día 💗
 
 **Título de la carta:** Me encantas completita
 
-**Carta:** Podría pasarme un buen rato diciéndote todo lo que me gusta de ti. Pero hoy te lo dejo fácil: eres todo lo que siempre quise, bebelyyyn. Y todavía me haces sonreír como tonto cuando hablamos.
+**Carta:** Mi amor 🥺 no solo me gusta decirte que estás preciosa. También quiero que sepas cuánto admiro a la mujer que eres. Tus ideas, tu humor, tus gustos, todo eso hace que quiera seguir escuchándote. Me encantas así, siendo tú 💗
 
-**Cierre de la carta:** Me traes bien enamorado, por si no se nota jajaj.
+**Cierre de la carta:** Y sí, también me distraen tus ojitos 🤭
 
-**Nota de día:** Esos ojitos tuyos sí que me ganaron.
+**Nota de día:** Me traes bien enamorado, por si no se nota jajaj.
 
 **Nota de noche:** Me traes bien enamorado, por si no se nota jajaj.
 
@@ -410,15 +404,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** sí se me antoja.
 
-**Texto principal:** Que te guste One Piece como a mí es de esas cositas que me encantan de nosotros. Mi amor, contigo hasta discutir teorías sería una cita jajaj 💗
+**Texto principal:** Que podamos hablar de One Piece juntos es algo que me encanta 😭 mi mujer preciosa y encima le gusta mi anime, qué suerte tengo 💗
 
 **Título de la carta:** Mi compañera de aventuras
 
-**Carta:** Me hace ilusión ver más capítulos contigo, escuchar tus opiniones y emocionarnos juntos. Y si nos distraemos hablando, pues lo pausamos. Yo feliz de tener otro pretexto para pasar tiempo contigo.
+**Carta:** Mi amor, yo quiero esos planes contigo: algo rico, One Piece y escucharte decir qué piensas de cada cosa 🤭 me gusta compartir algo que me encanta con alguien que amo tantooo. Nada más no te rías si me emociono mucho JAJSJS 💗
 
-**Cierre de la carta:** Te quiero a mi ladito, lyncita.
+**Cierre de la carta:** Tú elige la botana, bebé 🤭
 
-**Nota de día:** Mi aventura favorita sería ir a verte.
+**Nota de día:** Te quiero a mi ladito, lyncita.
 
 **Nota de noche:** Te quiero a mi ladito, lyncita.
 
@@ -444,15 +438,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** tú y yo.
 
-**Texto principal:** Qué ganas de salir contigo, mi amor. Caminar sin tanta prisa, escucharte reír y buscar cualquier excusa para agarrarte de la mano 💗
+**Texto principal:** Quiero salir contigo y que se nos haga tarde de tanto caminar y platicar 🥺 bueno, y de detenerme a darte besos también 🤭
 
 **Título de la carta:** Nos debemos una cita
 
-**Carta:** No necesito que sea un plan enorme. Ir por algo rico y pasar la tarde contigo ya me haría bien feliz. Aunque seguro voy a querer tomarte muchas fotos, pq estás preciosa 🤭
+**Carta:** Bebé, no necesito un plan complicadísimo para querer verte. Me gustaría ir por algo rico, preguntarte cómo estás y escucharte sin tener una pantalla en medio. Y cuando sonrías, poder decirte de cerquita lo hermosa que te ves 💗
 
-**Cierre de la carta:** Te voy a presumir mucho, bebelyyyn.
+**Cierre de la carta:** Te aparto mi mano para esa cita 🥺
 
-**Nota de día:** Tu manita en la mía, por favor.
+**Nota de día:** Te voy a presumir mucho, bebelyyyn.
 
 **Nota de noche:** Te voy a presumir mucho, bebelyyyn.
 
@@ -478,15 +472,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** los días normales contigo.
 
-**Texto principal:** Me gusta imaginar esas cositas sencillas contigo: contarnos el día, comer algo rico y quedarnos hablando hasta que nos dé sueño 💗
+**Texto principal:** Me ilusiona compartir contigo cosas sencillas, mi amor. Hasta decidir qué vamos a comer se me hace un plan bonito si estás tú 💗
 
 **Título de la carta:** Para mi mujer increíble
 
-**Carta:** Me encantas por lo bonita que eres, pero también por todo lo que voy conociendo de ti. Siempre terminas dándome otra razón para quererte. Qué suerte tengo de tenerte en mi vida, mi amor.
+**Carta:** Jocelyn 🥺 me gusta imaginar esos días en los que podamos estar juntos sin tener que hacer algo especial. Tú contándome algo, yo buscándote un abrazo, y los dos viendo qué se nos antoja. Quiero conocerte también en esos momentos 💗
 
-**Cierre de la carta:** Yo feliz de escucharte otro ratito.
+**Cierre de la carta:** Por mí, hoy comemos lo que tú quieras 🤭
 
-**Nota de día:** Me gusta seguir conociéndote, lyncita.
+**Nota de día:** Yo feliz de escucharte otro ratito.
 
 **Nota de noche:** Yo feliz de escucharte otro ratito.
 
@@ -512,15 +506,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** un ratito tranquilo.
 
-**Texto principal:** Aquí quiero quedarme con lo bonito, mi amor: tú y yo bien cerquita, sin prisa. Ya nos hacen falta unos abrazos de esos que duran 💗
+**Texto principal:** A veces quisiera poder abrazarte justo cuando me dices que me extrañas 🥺 mientras llega ese momento, aquí te dejo un poquito de mi amor 💗
 
 **Título de la carta:** Contigo quiero cosas bonitas
 
-**Carta:** A veces me dan unas ganas enormes de tenerte enfrente y llenarte de besos. Mientras llega ese momento, te hago estas cositas para recordarte que me encantas y que pienso mucho en ti.
+**Carta:** Mi niña, si hoy necesitas cariño, esta notita es para ti 🥺 quisiera poder sentarme a tu lado y escucharte, o simplemente quedarme contigo si no tienes ganas de hablar. Te amo mucho, y me importa cómo estás, incluso en los días difíciles 💗
 
-**Cierre de la carta:** Nosotros sí vamos a escribir algo bonito.
+**Cierre de la carta:** Te mando un abrazo de esos que duran 🥺
 
-**Nota de día:** Qué ganas de tenerte aquí, mi amor.
+**Nota de día:** Nosotros sí vamos a escribir algo bonito.
 
 **Nota de noche:** Nosotros sí vamos a escribir algo bonito.
 
@@ -546,15 +540,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** a tu mundo.
 
-**Texto principal:** Me gusta cuando una conversación contigo se alarga sin que nos demos cuenta. Yo ya debería irme y ahí sigo, queriendo escucharte otro poquito 💗
+**Texto principal:** Yo digo que ya me voy y luego me cuentas otra cosa… y ahí me tienes otra vez 🤭 es que sí me gusta mucho hablar contigo, amor 💗
 
 **Título de la carta:** Cinco minutitos más contigo
 
-**Carta:** Tienes algo que hace que hablar contigo se sienta bien fácil. Tu voz me encanta y tus ocurrencias todavía más. Perdóname si me quedo otro ratito, es que me gusta mucho tu compañía jajaj.
+**Carta:** Olaaa lyncita 🥺 me gusta que me dejes conocer tu mundo. Lo que te hace reír, lo que te preocupa, lo que te gustaría hacer. No tienes que contarme todo de golpe, yo estoy feliz de ir descubriéndote a tu ritmo 💗
 
-**Cierre de la carta:** Si hace frío, te debo un abrazo doble.
+**Cierre de la carta:** Todavía me debes el resto de esa historia 🤭
 
-**Nota de día:** Qué linda te has de ver toda abrigadita.
+**Nota de día:** Si hace frío, te debo un abrazo doble.
 
 **Nota de noche:** Si hace frío, te debo un abrazo doble.
 
@@ -580,15 +574,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** más raras tienen sentido.
 
-**Texto principal:** No necesito hacer ningún experimento para saber que me encantas jajaj. Aunque sí me gustaría comprobar cuántos besitos aguantas, mi amor 🤭
+**Texto principal:** Estos tenían que tener una escena divertida JAJSJS. Me acordé de lo mucho que me gusta hacerte reír, bebé 💗
 
 **Título de la carta:** Esto sí lo tengo comprobado
 
-**Carta:** Me haces reír, me encanta hablar contigo y aparte estás hermosísima. Con tantas razones, cómo no voy a andar todo enamorado de ti, bebelyyyn. Yo digo que vamos bastante bien 💗
+**Carta:** Mi amor, a veces se me ocurren cosas bien raras, como hacerte todo este regalo porque sí 🤭 y después pienso en que quizá te saque una sonrisa y ya quiero terminarlo para enseñártelo. Adoro poder consentirte a mi manera 🥺💗
 
-**Cierre de la carta:** Confirmado: me gustas muchísimo 💗
+**Cierre de la carta:** Si te reíste, ya valió la pena 🤭
 
-**Nota de día:** Compartimos algo dulce y luego me das un besito.
+**Nota de día:** Confirmado: me gustas muchísimo 💗
 
 **Nota de noche:** Confirmado: me gustas muchísimo 💗
 
@@ -614,15 +608,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** nos entendemos así.
 
-**Texto principal:** Hay canciones que me dan ganas de mandártelas nomás para decirte: mira, mi amor, esta me hizo pensar en ti 💗
+**Texto principal:** Hay canciones que ya no puedo escuchar sin pensar en ti, sabes? 🥺 ahora estas también van a tener un poquito de nosotros 💗
 
 **Título de la carta:** Una canción y tú
 
-**Carta:** Me gustaría escucharlas contigo, estar cerquita y contarte por qué me recordaron a nosotros. Aunque mi sonido favorito sigue siendo tu risa, lyncita. Esa sí la escucharía un montón de veces.
+**Carta:** Bebé, me gustaría escucharlas contigo y que me cuentes cuáles te gustan más. Yo seguro voy a encontrar alguna excusa para dedicarte otra 🤭 me gusta mucho cuando una canción dice algo que yo quería decirte y no sabía cómo 💗
 
-**Cierre de la carta:** Tú y yo escuchando música, qué bonito plan.
+**Cierre de la carta:** Esta te la mando con un mwaaa 💗
 
-**Nota de día:** Tu voz me gusta más de lo que te imaginas.
+**Nota de día:** Tú y yo escuchando música, qué bonito plan.
 
 **Nota de noche:** Tú y yo escuchando música, qué bonito plan.
 
@@ -648,15 +642,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** para pensar en ti.
 
-**Texto principal:** Te vi bonita y luego te fui conociendo… y pues aquí me tienes, haciéndote una página entera pq me encantas demasiado jajaj 💗
+**Texto principal:** Te conocí, me gustaste, seguí hablando contigo y ahora mírame 😭 haciéndote regalos porque no sé dejar de pensar en ti 💗
 
 **Título de la carta:** Cómo me gustas, Jocelyn
 
-**Carta:** No te hice esto por una fecha especial. Simplemente me dieron ganas de tener un detalle contigo. Me encanta imaginarte viendo las fotitos y encontrando las sorpresas que te dejé, mi amor.
+**Carta:** Mi niña hermosa 🥺 no hay cumpleaños ni una fecha especial detrás de esto. Solo me dieron ganas de hacerte algo y aquí me tienes. Me gusta que tengas detallitos míos a la mano, para que cuando los abras sepas que hay alguien bien enamorado de ti 💗
 
-**Cierre de la carta:** Qué linda eres, bebelyyyn.
+**Cierre de la carta:** Solo por bonita, princesa 🤭
 
-**Nota de día:** Me dieron ganas de consentirte, eso es todo.
+**Nota de día:** Qué linda eres, bebelyyyn.
 
 **Nota de noche:** Qué linda eres, bebelyyyn.
 
@@ -682,15 +676,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** me encantas más.
 
-**Texto principal:** Me gusta que contigo puedo bromear y también decirte bien en serio lo mucho que te amo. Aunque luego me dé por pedirte besitos otra vez 🤭
+**Texto principal:** Me haces reír hasta cuando intento ponerme serio JAJSJS. Pero esto sí va bien en serio, bebé: te amo muchísimo 💗
 
 **Título de la carta:** Entre bromas y besitos
 
-**Carta:** Me encanta lo divertida que eres. Si ya me la paso así de bonito hablando contigo desde lejos, imagínate cuando pueda verte reír enfrente de mí. Ahí sí me vas a tener todo embobado, mi amor.
+**Carta:** Mi amor, quiero seguir bromeando contigo y también decirte cosas lindas sin esperarme a una ocasión especial 🤭 así que aquí va otra: tus ojos me encantan, tu voz me puede y cuando te ríes me dan más ganas de besarte 💗
 
-**Cierre de la carta:** Así de cerquita te quiero, lyncita 💗
+**Cierre de la carta:** Sí era una excusa para pedirte otro beso 😛
 
-**Nota de día:** Me haces reír y me encantas, qué combinación.
+**Nota de día:** Así de cerquita te quiero, lyncita 💗
 
 **Nota de noche:** Así de cerquita te quiero, lyncita 💗
 
@@ -716,15 +710,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** me quedo contigo.
 
-**Texto principal:** Mi amor, aquí sí me imagino una tarde contigo, algo rico para comer y Mi corazón encantado de fondo. Ya con eso me tienes bien feliz 💗
+**Texto principal:** Aquí sí quiero que escuches la canción, mi amor 🥺 me da mucha ilusión imaginarnos juntos con Mi corazón encantado de fondo 💗
 
 **Título de la carta:** Mi corazón sí lo tienes encantado
 
-**Carta:** Me gusta imaginar planes así contigo, sencillos pero nuestros. Reírnos, compartir la comida y decirte otra vez que eres la mujer más bonita del universo. Eso no me voy a cansar de decírtelo.
+**Carta:** Bebelyyyn 💗 esta parte me hace pensar en una tarde tranquila contigo, comiendo algo rico y cantando aunque no nos salga JAJSJS. Quisiera poder verte sonreír cuando suene esa canción. Yo sé que me quedaría viéndote bien enamorado 🥺
 
-**Cierre de la carta:** Qué afortunado me siento de quererte, mi amor.
+**Cierre de la carta:** Mi corazón encantado y mi niña a mi lado 💗
 
-**Nota de día:** Yo llevo la comida, tú esa carita preciosa.
+**Nota de día:** Qué afortunado me siento de quererte, mi amor.
 
 **Nota de noche:** Qué afortunado me siento de quererte, mi amor.
 
@@ -750,15 +744,15 @@ Tite Kubo · Bleach, tomo 60.
 
 **Continuación del título:** y tú conmigo.
 
-**Texto principal:** Después de todos estos ships, yo sigo pensando lo mismo: qué bonita eres, mi amor, y cuánto me gusta que seas tú la que está conmigo 💗
+**Texto principal:** Llegaste hasta aquí, mi amor 🥺 gracias por leerme tanto. Todavía me quedan muchas cosas por decirte, pero la principal ya la sabes: te amo 💗
 
 **Título de la carta:** Para ti, mi bebelyyyn
 
-**Carta:** Ojalá este regalito te saque una sonrisita. Lo hice pensando en lo que te gusta y en las ganas que tengo de darte cosas bonitas. Te amo mucho, Jocelyn, y todavía me quedan un montón de besos por darte.
+**Carta:** Mi linda Jocelyn, ojalá te haya gustado este regalito 🥺 me hizo mucha ilusión prepararte cada parte y pensar en ti mientras lo hacía. Ahora ya tienes dónde venir cuando quieras leer algo mío. Y si quieres más cariño, ven a pedírmelo, que para ti siempre tengo 💗
 
-**Cierre de la carta:** ¿Nos ponemos estas fotitos, bebelyyyn? 🥺
+**Cierre de la carta:** Mwaaa, tu noviecito te manda muchos besos 🤭💗
 
-**Nota de día:** De pies a cabeza, me encantas, mi amor.
+**Nota de día:** ¿Nos ponemos estas fotitos, bebelyyyn? 🥺
 
 **Nota de noche:** ¿Nos ponemos estas fotitos, bebelyyyn? 🥺
 

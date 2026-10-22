@@ -21,7 +21,7 @@
   const resumeChapter=chapters.find(c=>c.id===remembered);
   if(resumeChapter&&resumeChapter.id!==chapters[0].id){const b=$('#resume-story');b.hidden=false;b.textContent='Seguir con '+resumeChapter.names;b.addEventListener('click',()=>{enter();document.getElementById(resumeChapter.id).scrollIntoView({behavior:'instant'});document.getElementById(resumeChapter.id).classList.add('seen');});}
   const observer = new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('seen')}),{threshold:.12});sections.forEach(s=>observer.observe(s));
-  function openDialog(dialog){dialog.showModal();document.body.style.overflow='hidden'}
+  function openDialog(dialog){dialog.showModal();dialog.scrollTop=0;document.body.style.overflow='hidden'}
   function closeDialog(dialog){dialog.close();document.body.style.overflow=''}
   document.querySelectorAll('dialog').forEach(d=>{d.querySelector('[data-close]').addEventListener('click',()=>closeDialog(d));d.addEventListener('close',()=>{document.body.style.overflow=''});d.addEventListener('click',e=>{if(e.target===d){const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)closeDialog(d)}})});
   $('#chapters-toggle').addEventListener('click',()=>openDialog($('#chapter-dialog')));
@@ -47,7 +47,7 @@
       document.body.dataset.ambient=mode;
       toggle.innerHTML=day?'☾ <span>Noche</span>':'☀ <span>Día</span>';
       toggle.setAttribute('aria-pressed',String(day));toggle.setAttribute('aria-label',day?'Cambiar a ambiente de noche':'Cambiar a ambiente de día');
-      sections.forEach((section,i)=>{section.querySelector('.note-one').textContent=day?chapters[i].noteDay:chapters[i].noteNight;section.style.setProperty('--next-bg',i+1<sections.length?getComputedStyle(sections[i+1]).getPropertyValue('--bg'):day?'#f0e9ee':'#111225');});
+      sections.forEach((section,i)=>{section.style.setProperty('--next-bg',i+1<sections.length?getComputedStyle(sections[i+1]).getPropertyValue('--bg'):day?'#f0e9ee':'#111225');});
       storage.set('lovelyn-ambient',mode);$('#ambient-status').textContent=day?'Ahora es de día en nuestros ships.':'Ya cayó la noche en nuestros ships.';
     }catch{$('#ambient-status').textContent='La escena no terminó de cargar. Puedes intentarlo otra vez.';}
     finally{themeChanging=false;toggle.disabled=false;setTimeout(()=>{$('#ambient-status').textContent='';},5000);}
@@ -57,7 +57,9 @@
   const defaultPlaylist='7dATvjOuzNflApJJsvj67F';
   function playlistId(value){try{const u=new URL(value);if(u.protocol!=='https:'||u.hostname!=='open.spotify.com')return null;return u.pathname.match(/^\/(?:intl-[a-z]{2}\/)?playlist\/([A-Za-z0-9]{22})\/?$/)?.[1]||null}catch{return null}}
   const savedId=storage.get('lovelyn-playlist');let currentPlaylist=/^[A-Za-z0-9]{22}$/.test(savedId||'')?savedId:defaultPlaylist,playerLoaded=false;
-  let musicMode='chapter',mountedTrack='';
+  let musicMode=storage.get('lovelyn-music-mode')==='playlist'?'playlist':'chapter',mountedTrack='',musicTimer;
+  function updateMusicMode(){const b=$('#chapter-song-toggle');b.setAttribute('aria-pressed',String(musicMode==='chapter'));b.textContent=musicMode==='chapter'?'Por pareja · cambiar a playlist seguida':'Playlist seguida · cambiar por pareja';storage.set('lovelyn-music-mode',musicMode);}
+  updateMusicMode();
   function chapterTrack(){try{const u=new URL(chapters[active].songUrl);return u.protocol==='https:'&&u.hostname==='open.spotify.com'?u.pathname.match(/^\/(?:intl-[a-z]{2}\/)?track\/([A-Za-z0-9]{22})\/?$/)?.[1]:null}catch{return null}}
   function syncChapterMusic(){
     const id=chapterTrack(),button=$('#chapter-song-toggle');button.hidden=!id;
@@ -66,11 +68,11 @@
     if(mountedTrack===id)return;
     const frame=document.createElement('iframe');frame.title='Canción de '+chapters[active].names;frame.src=`https://open.spotify.com/embed/track/${id}?theme=0`;frame.allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture';$('#spotify-container').replaceChildren(frame);$('#spotify-link').href=`https://open.spotify.com/track/${id}`;$('#music-meta').textContent=chapters[active].names+' · '+chapters[active].songName;mountedTrack=id;
   }
-  $('#chapter-song-toggle').addEventListener('click',()=>{musicMode=musicMode==='chapter'?'playlist':'chapter';$('#chapter-song-toggle').setAttribute('aria-pressed',String(musicMode==='chapter'));if(musicMode==='chapter')syncChapterMusic();else mountSpotify();});
+  $('#chapter-song-toggle').addEventListener('click',()=>{musicMode=musicMode==='chapter'?'playlist':'chapter';updateMusicMode();if(musicMode==='chapter')syncChapterMusic();else mountSpotify();});
   function mountSpotify(){mountedTrack='';const iframe=document.createElement('iframe');iframe.title='Playlist de Spotify';iframe.src=`https://open.spotify.com/embed/playlist/${currentPlaylist}?utm_source=generator&theme=0`;iframe.allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture';iframe.allowFullscreen=true;$('#spotify-container').replaceChildren(iframe);$('#spotify-link').href=`https://open.spotify.com/playlist/${currentPlaylist}`;$('#music-meta').textContent=currentPlaylist===defaultPlaylist?'La playlist que hice para ti 💗':'Tu playlist elegida';playerLoaded=true}
   function toggleMusic(open){$('#music-panel').hidden=!open;$('#music-toggle').setAttribute('aria-expanded',String(open));if(open&&!playerLoaded){if(musicMode==='chapter')playerLoaded=true;else mountSpotify();}if(open)syncChapterMusic();if(open)$('#music-close').focus();else $('#music-toggle').focus()}
   $('#music-toggle').addEventListener('click',()=>toggleMusic($('#music-panel').hidden));$('#music-close').addEventListener('click',()=>toggleMusic(false));document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#music-panel').hidden)toggleMusic(false)});
-  $('#playlist-form').addEventListener('submit',e=>{e.preventDefault();const id=playlistId($('#playlist-url').value.trim());if(!id){$('#playlist-message').textContent='Pega el enlace completo de una playlist de open.spotify.com.';return}musicMode='playlist';$('#chapter-song-toggle').setAttribute('aria-pressed','false');currentPlaylist=id;storage.set('lovelyn-playlist',id);mountSpotify();$('#playlist-message').textContent='Lista para escuchar. Guardada en este navegador.'});
+  $('#playlist-form').addEventListener('submit',e=>{e.preventDefault();const id=playlistId($('#playlist-url').value.trim());if(!id){$('#playlist-message').textContent='Pega el enlace completo de una playlist de open.spotify.com.';return}musicMode='playlist';updateMusicMode();currentPlaylist=id;storage.set('lovelyn-playlist',id);mountSpotify();$('#playlist-message').textContent='Lista para escuchar. Guardada en este navegador.'});
   const canvas=$('#petals'),ctx=canvas.getContext('2d');let w=innerWidth,h=innerHeight,last=0,raf=0,clock=0;
   const motes=Array.from({length:innerWidth<850?30:44},(_,i)=>({x:Math.random(),y:Math.random(),r:2+Math.random()*4,phase:Math.random()*Math.PI*2,speed:.018+Math.random()*.023,index:i}));
   const railLinks=[...document.querySelectorAll('#chapter-rail a')];
@@ -120,7 +122,7 @@
   function tick(now){const dt=Math.min((now-last)/1000,.05);last=now;clock+=dt;const vh=innerHeight;let nearest=Infinity;
     sections.forEach((section,i)=>{const r=section.getBoundingClientRect();if(r.top<vh&&r.bottom>0){const probe=vh*.32;const dist=r.top<=probe&&r.bottom>probe?0:Math.min(Math.abs(r.top-probe),Math.abs(r.bottom-probe));if(dist<nearest){nearest=dist;active=i;}section.style.setProperty('--arrival',motionPaused?'0':String(Math.max(0,Math.min(1,r.top/(vh*.85)))));if(!motionPaused&&w>850)section.style.setProperty('--parallax',`${Math.max(-18,Math.min(18,-r.top*.035))}px`);}});
     const total=document.documentElement.scrollHeight-vh;$('#reading-fill').style.width=`${total>0?Math.min(100,Math.max(0,scrollY/total*100)):0}%`;
-    if(entered&&lastSavedChapter!==chapters[active].id){lastSavedChapter=chapters[active].id;syncChapterMusic();storage.set('lovelyn-chapter',lastSavedChapter);railLinks.forEach((a,i)=>a.setAttribute('aria-current',String(active===i)));}
+    if(entered&&lastSavedChapter!==chapters[active].id){lastSavedChapter=chapters[active].id;clearTimeout(musicTimer);musicTimer=setTimeout(syncChapterMusic,850);storage.set('lovelyn-chapter',lastSavedChapter);railLinks.forEach((a,i)=>a.setAttribute('aria-current',String(active===i)));}
     ctx.clearRect(0,0,w,h);
     if(entered&&!motionPaused){const day=document.body.dataset.ambient==='day',effect=day?chapters[active].effectDay:chapters[active].effectNight;canvas.dataset.effect=effect;const quiet=sections[active].querySelector('.scene-text').getBoundingClientRect();motes.forEach(p=>drawMote(p,effect,day,dt,quiet));}
     raf=requestAnimationFrame(tick);

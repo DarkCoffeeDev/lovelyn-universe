@@ -2,7 +2,7 @@ import {readFile,writeFile} from 'node:fs/promises';
 import vm from 'node:vm';
 const context={window:{}};vm.runInNewContext(await readFile('chapters.js','utf8'),context);
 const list=context.window.LOVELYN_CHAPTERS;
-let text='# Lovelyn · Todos los textos para revisar\n\nVersión de 22 parejas. Los textos sin atribución son borradores personales para Eddy y Jocelyn. Las citas atribuidas se distinguen de esos borradores.\n\n## Entrada\n\n- Para mi bebelyyyn\n- Un pequeño detalle, porque te amo.\n- No hay una razón especial, mi amor. Simplemente te amo y me dieron ganas de crearte algo bonito.\n- Mira lo que te hice, lyncita ↗\n- Psst… toca a los personajes. Te escondí algo ♡\n- Con mucho amor, Eddy.\n\n';
+let text='# Lovelyn · Todos los textos para revisar\n\nVersión de 22 parejas. Los textos sin atribución son borradores personales para Eddy y Jocelyn. Las citas atribuidas se distinguen de esos borradores.\n\n## Entrada\n\n- Para mí bebelyyyn 🥺\n- Un pequeño detalle, porque te amo.\n- Te amo mi niña hermosa, ojalá disfrutes de este pequeño regalo que te hice solo por bonita 🤭 mwaaa te mando un beso, y adelante, lee todo lo que quieras\n- Mira mi amor\n- Psst un secretito te encontrarás si tocas los dibujos 💗\n- Con mucho amooor, tu noviecito 💗\n\n';
 list.forEach((c,i)=>{text+=`## ${i+1}. ${c.names} — ${c.anime}\n\n`;
 for(const [key,label] of [['title','Título'],['accent','Continuación del título'],['text','Texto principal'],['note','Título de la carta'],['letter','Carta'],['closing','Cierre de la carta'],['noteDay','Nota de día'],['noteNight','Nota de noche'],['note2','Segunda notita']]) text+=`**${label}:** ${c[key]}\n\n`;
 if(c.quote)text+=`**Cita mostrada en la segunda notita (en lugar del borrador):** “${c.quote}” — ${c.quoteBy}\n\n`;
