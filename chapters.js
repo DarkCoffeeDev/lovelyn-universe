@@ -612,13 +612,13 @@ window.LOVELYN_CHAPTERS = [
     "layout": "center",
     "title": "Me gusta acercarme",
     "accent": "a tu mundo.",
-    "text": "Yo digo que ya me voy y luego me cuentas otra cosa… y ahí me tienes otra vez 🤭 es que sí me gusta mucho hablar contigo, amor 💗",
-    "note": "Cinco minutitos más contigo",
-    "note2": "Otro ratito contigo y ya… según yo jajaj 💗",
-    "noteDay": "Si hace frío, te debo un abrazo doble.",
-    "noteNight": "Si hace frío, te debo un abrazo doble.",
-    "letter": "Olaaa lyncita 🥺 me gusta que me dejes conocer tu mundo. Lo que te hace reír, lo que te preocupa, lo que te gustaría hacer. No tienes que contarme todo de golpe, yo estoy feliz de ir descubriéndote a tu ritmo 💗",
-    "closing": "Todavía me debes el resto de esa historia 🤭",
+    "text": "Mi niña bonita tu sabes lo muchisimo que te amo 💗 y es por eso que aqui me tienes otra vez, diciendote todo lo que siento para asi ver tu preciosa sonrisa 🤭",
+    "note": "Te adoro cariño 💗",
+    "note2": "Quiero ser tuyo para toda la vida 💗",
+    "noteDay": "Tu en las buenas o en las malas, pero siempre tu",
+    "noteNight": "Tu en las buenas o en las malas, pero siempre tu",
+    "letter": "Olaaa mi lyncita 🥺 me gusta que me dejes conocer tu mundo. Lo que te hace reír, lo que te preocupa, lo que te gustaría hacer y todo sobre ti, eres muy especial para mi y siempre estare agradecido de todo lo que haces por mi princesa. \n\n Quiero que sepas que mientras mas escribo mas me gustaria decirte que te amo a cada rato pero no quiero que esto sea tan repetitivo para ti JASJSJSA asi que te contare que me has gustado desde siempre, eres la mujer que siempre soñe, eres perfecta, y mi corazon que antes eraa tan frio como un hielo, me lo derretiste a mas no poder, y es por eso que ni aunque intentara podria enamorarme de alguien mas, pero creeme  que no quiero porque yo todo lo quiero contigo mi amor JSJAJS, te hare mi esposa, no importa cuanto me cueste creeme que estare a tu lado siempre, te enamorare, te conquistare y te hare estar loquita por mi justo como yo estoy por ti, mwaaak, solo mirame cariño, no me he rendido y nunca lo hare, te prometo que te hare incluso mas mia de lo que ya eres 💗",
+    "closing": "Adoro ser el unico que puede verte y besarte🤭 ",
     "effectDay": "snow",
     "effectNight": "snow",
     "transition": "light",
@@ -627,13 +627,13 @@ window.LOVELYN_CHAPTERS = [
     "effect": "snow",
     "captions": [
       "Me gusta escucharte",
-      "Qué carita tan bonita",
-      "Cinco minutitos más 💗"
+      "Qué carita tan bonita tienes 🤭",
+      "Dame mil millones de besitos 💗"
     ],
     "photoNotes": [
-      "Otro ratito contigo y ya… según yo jajaj 💗",
+      "Dime que me amas mas seguido 🤭 me encanta escucharte o leerte decirlo 💗",
       "Qué linda te has de ver toda abrigadita.",
-      "Si hace frío, te debo un abrazo doble."
+      "Sabes? Aqui hace mucho frio y nada me haria mas feliz que tenerte  conmigo para calentarme 🤭"
     ],
     "caption": "Me gusta escucharte",
     "matching": {
@@ -652,11 +652,11 @@ window.LOVELYN_CHAPTERS = [
     "layout": "center",
     "title": "Contigo hasta mis ideas",
     "accent": "más raras tienen sentido.",
-    "text": "Estos tenían que tener una escena divertida JAJSJS. Me acordé de lo mucho que me gusta hacerte reír, bebé 💗",
-    "note": "Esto sí lo tengo comprobado",
+    "text": "Estos tenían que tener una escena divertida JAJSJS. Me acordé de lo mucho que me gusta hacerte reír bebé 💗 sonrie mas para mi chi? 🤭",
+    "note": "Te amo, al 10 mil millones % 🤭",
     "note2": "Mi experimento favorito: hacerte sonreír 🤭",
-    "letter": "Mi amor, a veces se me ocurren cosas bien raras, como hacerte todo este regalo porque sí 🤭 y después pienso en que quizá te saque una sonrisa y ya quiero terminarlo para enseñártelo. Adoro poder consentirte a mi manera 🥺💗",
-    "closing": "Si te reíste, ya valió la pena 🤭",
+    "letter": "Mi amor, a veces se me ocurren cosas bien raras, como hacerte todo este regalo porque sí JSAJSJ🤭 y después pienso en que quizá te saque una sonrisa y ya quiero terminarlo para enseñártelo. Adoro poder consentirte a mi manera y creeme que te seguire haciendo este tipo de regalitos solo para verte sonreir 💗",
+    "closing": "Si te hago sonreir todo esto habra valido la pena ",
     "caption": "Así de tonto me pones jajaj",
     "sceneDay": "v5-day-senku-kohaku",
     "sceneNight": "v5-night-senku-kohaku",
@@ -667,14 +667,14 @@ window.LOVELYN_CHAPTERS = [
     "effectNight": "fireflies",
     "transition": "breeze",
     "captions": [
-      "Así de tonto me pones jajaj",
-      "Un besito para mi bonita",
-      "Me encantas, comprobado"
+      "Ya tengo mi plan malvado para robarte 🤭",
+      "Un besito para mi bonita mwaak",
+      "Me encantas mi amoor JSJAJS"
     ],
     "photoNotes": [
-      "Mi experimento favorito: hacerte sonreír 🤭",
-      "Compartimos algo dulce y luego me das un besito.",
-      "Confirmado: me gustas muchísimo 💗"
+      "Estos dos me gustan mucho, son muy lindos y asi como me hacen sonreir cuando veo ese anime tu me haces muchisimo mas feliz, y ni se diga de las sonrisas que me sacas 🤭",
+      "Yo no quiero un beso fingido como el de ellos amor 🤭 apenas te descuides te metere la lengua JSAJS",
+      "Quedate conmigo siempre 💗 y dime a diario que eres mia chi? 🤭"
     ],
     "matching": {
       "you": "assets/matching/senku-kohaku-for-you.jpg",
