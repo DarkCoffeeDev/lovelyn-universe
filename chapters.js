@@ -217,9 +217,9 @@ window.LOVELYN_CHAPTERS = [
     "layout": "center",
     "title": "Rosita y negro.",
     "accent": "Otra vez nosotros.",
-    "text": "Ese rosita tuyo me trae bien enamorado 🤭 y aunque mañana te lo pintes de otro color, ya sé que voy a querer presumirte igual 💗",
-    "note": "Mi lyncita de cabello rosita",
-    "caption": "Ese rosita te queda hermoso",
+    "text": "Te amo mi amor, sabias? 🤭 y aunque mañana te pintes tu cabello de otro color, ya sé que me seguiras pareciendo la mujer mas hermosa de todas 💗",
+    "note": "Mi lyncita HERMOSAAA",
+    "caption": "Tu con cualquier color te ves hermosa 💗",
     "letter": "Mi amor 🥺 aquí volvió a salir el cabello rosita JAJSJS. Pero sabes qué me gusta más? Que debajo de todos esos colores sigues siendo tú, mi niña divertida, la que siempre tiene algo que contarme y me deja sonriendo al teléfono. Te adoro mi amor 💗 y me encantas como no tienes idea, justo por eso te voy a hacer un bebe JSJASJA",
     "closing": "Te debo un beso en la frente, princesa.",
     "note2": "Tú y tu cabello rosita me encantan 💗",
@@ -227,7 +227,7 @@ window.LOVELYN_CHAPTERS = [
     "effect": "embers",
     "transition": "ink",
     "captions": [
-      "Ti siempre estas hermosa",
+      "Tu siempre estas hermosa",
       "Ven, te quiero cerquita",
       "Yo sí te presumo mi amor"
     ],
@@ -257,11 +257,11 @@ window.LOVELYN_CHAPTERS = [
     "layout": "center",
     "title": "Contigo me río",
     "accent": "bien bonito.",
-    "text": "Contigo puedo pasar de decirte algo romántico a reírme como tonto 😭 me gusta mucho eso de ti mi amor, y es una cosa msa que amo de ti 💗",
-    "note": "Mi persona para reírnos de todo",
-    "caption": "Tú me haces reír así",
-    "letter": "Oye mi amor, yo sí quiero que nos sigamos haciendo reír así 🤭 que me cuentes tus ocurrencias, que nos burlemos de nuestras tonterías y que después me dejes abrazarte. De verdad adoro lo divertida que eres, nunca cambies esa parte tan linda de ti 💗",
-    "closing": "Mi compañera de tonterías favorita 🤭",
+    "text": "Contigo puedo pasar de decirte algo romántico a reírme como tonto 😭 me gusta mucho eso de ti mi amor, y es una cosa mas que amo de ti 💗",
+    "note": "Mi persona favorita para todo, mi amor 💗",
+    "caption": "Tú me haces divertirme siempre 💗",
+    "letter": "Oye mi amor, yo sí quiero que nos sigamos haciendo reír 🤭 que me cuentes todo lo que te pase o se te ocurra, que nos burlemos de nuestras tonterías y que después me dejes abrazarte. De verdad adoro lo divertida que eres, nunca cambies esa parte tan linda de ti porque creeme que tu voz, tu risa, y tu sonrisa siempre han sido mis cosas favoritas 💗",
+    "closing": "Sigue  haciendo mis dias mas lindos amor 🤭",
     "note2": "Me encanta lo divertida que eres 💗",
     "sceneNight": "v2-risa-otani",
     "effect": "hearts",
@@ -275,8 +275,8 @@ window.LOVELYN_CHAPTERS = [
     "quoteBy": "Risa",
     "quoteSource": "https://www.subtitlecat.com/subs/914/Lovely%20Complex%20-%2018.html",
     "sceneDay": "v3-day-risa-otani",
-    "noteDay": "Nos faltan muchas tonterías por hacer juntos.",
-    "noteNight": "Nos faltan muchas tonterías por hacer juntos.",
+    "noteDay": "Nos faltan muchas cosas por hacer juntos.",
+    "noteNight": "Nos faltan muchas cosas por hacer juntos.",
     "photoNotes": [
       "Me encanta lo divertida que eres 💗",
       "Sonrie mas amor, te descuidas y te robo un besito 🤭",
@@ -300,10 +300,10 @@ window.LOVELYN_CHAPTERS = [
     "layout": "center",
     "title": "De todas las cosas raras,",
     "accent": "qué bonito encontrarte.",
-    "text": "Me encanta que contigo puedo ser yo mismo JAJSJS y incluso si soy raro adoro que que esa persona que siempre esta para mi sea mi mujer preciosa, todavía más 🤭",
+    "text": "Me encanta que contigo puedo ser yo mismo JAJSJS y incluso si soy raro adoro que que esa persona que siempre esta para mi sea mi mujer preciosa, hermosa y linda 🤭",
     "note": "Tú y yo haciendo de las nuestras",
-    "caption": "Tú y yo jajaj 💗",
-    "letter": "Bebelyyyn 🥺 estos dos me dan mucha risa, por eso quería ponerlos aquí. Me gusta imaginarte comentando cada escena conmigo, haciendo caras juntos y riendonos de todo. Al final seguro te preguntaría algo del capítulo porque me distraje mirándote a ti 💗 pero  que sepas que tu siempre seras mi persona favorita, porque contigo puedo ser como soy, y te amo demasiado, gracias por aguantarme mi amor, ojala pronto en lugar de aguantar mis palabras tengas que aguantar mis besos mwaak",
+    "caption": "Tú y yo 💗",
+    "letter": " Hola mi bebelyyyn 🥺 estos dos me dan mucha risa, por eso quería ponerlos aquí. Me gusta imaginarte hablando de cada escena conmigo, haciendo caras juntos y riendonos de todo. Al final seguro te preguntaría algo del capítulo porque me distraje mirándote a ti JASJAJ 💗 y quien sabe a lo mejor hasta dejo de ver lo que este viendo por comerte a besos? pero  que sepas que tu siempre seras mi persona favorita, porque contigo puedo ser como soy, y te amo demasiado, gracias por aguantarme mi amor, ojala pronto en lugar de aguantar mis palabras tengas que aguantar mis besos mwaak",
     "closing": "Sí estaba poniendo atención…  pero a tu carita 🤭",
     "note2": "Te amo mi bebe hemocha 💗",
     "sceneNight": "v2-momo-okarun",
@@ -339,13 +339,13 @@ window.LOVELYN_CHAPTERS = [
     "layout": "left",
     "title": "Un lugar bonito,",
     "accent": "si estás tú.",
-    "text": "Amo tu piel morenita y tus ojos, mi amor 🥺 pero lo que más enamorado me tiene es esa forma tan linda de ser que tienes 💗",
-    "note": "Un abrazo de esos que me faltan",
+    "text": "Amo tu piel morenita y tus ojos mi amor 🥺 pero lo que más enamorado me tiene es esa forma tan linda de ser que tienes 💗",
+    "note": "Eres una mujer preciosa, mi amor 😻",
     "note2": "Ven, que te debo muchos abrazos 💗",
     "noteDay": "Eres preciosa de pies a cabeza, mi amor.",
     "noteNight": "Eres preciosa de pies a cabeza, mi amor.",
-    "letter": "Hola princesa 💗 quería dejarte esto aquí para cuando se te olvide lo increíble que eres. Yo veo a una mujer hermosa, divertida y con un corazón que adoro. Me da mucho gusto poder conocerte así, con todo lo que me vas contando de ti 🥺",
-    "closing": "Qué orgulloso estoy de mi mujer 💗",
+    "letter": "Hola princesa 💗 quería dejarte esto aquí para cuando se te olvide lo increíble que eres. Yo veo a una mujer hermosa, divertida y con un corazón que adoro. Me da mucho gusto poder conocerte así, con todo lo que me vas contando de ti me enamoro mas cada dia, y agregar estos ships que te gustan me ha parecido muy divertido 💗 creo que con cada ship que veo mas pienso en lo mucho que te amo y lo mucho que deseo besarte mwaa. ",
+    "closing": "Qué orgulloso estoy de que seas mi mujer 💗",
     "effectDay": "leaves",
     "effectNight": "fireflies",
     "transition": "breeze",
@@ -353,16 +353,16 @@ window.LOVELYN_CHAPTERS = [
     "sceneNight": "v3-night-king-diane",
     "effect": "fireflies",
     "captions": [
-      "Qué bonito quererte así",
-      "Yo todo enamorado de ti",
-      "Algún día nosotros, amor"
+      "Qué bonito enamorarme de ti",
+      "ME TIENES LOCOOO 💗",
+      "Casate conmigo chi? 🤭"
     ],
     "photoNotes": [
-      "Ven, que te debo muchos abrazos 💗",
-      "Qué bonito sería estar así contigo.",
-      "Eres preciosa de pies a cabeza, mi amor."
+      "Ven, que te descuidas un momento y te hago un bebe 💗",
+      "Qué bonita estas mi amor, si sigues leyendo todo est mandame un mensaje y  dime que me amas mucho 💗",
+      "Eres preciosa mi noviecita linda, te voy a comer mi amor😻"
     ],
-    "caption": "Qué bonito quererte así",
+    "caption": "Qué bonita mi mujer 💗",
     "matching": {
       "you": "assets/matching/king-diane-for-you.jpg",
       "me": "assets/matching/king-diane-for-me.jpg"
@@ -378,12 +378,12 @@ window.LOVELYN_CHAPTERS = [
     "layout": "center",
     "title": "Puedo ser yo,",
     "accent": "cuando estoy contigo.",
-    "text": "Aunque estemos lejos, me sigues acompañando en tantas cosas 🥺 siempre hay algo que veo y te quiero enseñar, mi amor 💗",
-    "note": "Pensé en ti, como siempre",
-    "note2": "Vi esto y pensé en ti 💗",
+    "text": "Aunque estemos lejos, me sigues acompañando en tantas cosas 🥺 y por eso siempre quiero contarte algo nuevo mi amor 💗",
+    "note": "Me tienes bien enamorado, como siempre",
+    "note2": "Me encantas 💗",
     "noteDay": "Ya quiero compartir más ratitos contigo.",
     "noteNight": "Ya quiero compartir más ratitos contigo.",
-    "letter": "Lyncita, de repente encuentro una canción, una imagen o una tontería y ya te la quiero mandar 😭 me gusta que seas esa persona en la que pienso. Por ahora te comparto este rinconcito, y cuando estemos juntos quiero enseñarte muchas cosas de la manita 💗",
+    "letter": "Mi amor, de repente encuentro una canción, una imagen o una tontería y ya te la quiero mandar, y  siempre me pasa porque amo hablar contigo, siempre lo he hecho y siempre lo hare, me gusta que seas esa persona en la que pienso. Por ahora te comparto este rinconcito, y cuando estemos juntos quiero enseñarte y hacer muchas cosas juntos 💗 \n\n Pero hey, no olvides que tu me debes muchos muchos besos, y  aunque seguramente me de vergüenza lo primero que hare al verte por primera vez sin duda sera besarte mucho JSAJSJ",
     "closing": "Esto también lo hice pensando en ti, obviamente 🤭",
     "effectDay": "mist",
     "effectNight": "lanterns",
@@ -392,16 +392,16 @@ window.LOVELYN_CHAPTERS = [
     "sceneNight": "v3-night-wangxian",
     "effect": "lanterns",
     "captions": [
-      "Me gusta verlos juntos",
-      "Te escogería otra vez",
-      "Otro abrazo de esos, porfa"
+      "BESAMEEE 💗",
+      "Te escogería una y otra vez 🤭",
+      "Hmm que rika esta mi novia 😻"
     ],
     "photoNotes": [
-      "Vi esto y pensé en ti 💗",
-      "Te mando un besito, de esos que duran.",
-      "Ya quiero compartir más ratitos contigo."
+      "Vere esta serie por ti 💗",
+      "Te mando un besito mi amor, uno en la frente, otro en la boca y uno en ya sabes donde 🤭",
+      "Estare contigo siempre."
     ],
-    "caption": "Me gusta verlos juntos",
+    "caption": "Se que ya lo dije pero TE AMOOO 💗",
     "matching": {
       "you": "assets/matching/wangxian-for-you.jpg",
       "me": "assets/matching/wangxian-for-me.jpg"
@@ -416,13 +416,13 @@ window.LOVELYN_CHAPTERS = [
     "theme": "sage",
     "layout": "right",
     "title": "Me encanta verte",
-    "accent": "ser tan tú.",
-    "text": "Tienes una forma de ser que me encanta, bebé. Me gusta escucharte decir lo que piensas y conocerte más cada día 💗",
+    "accent": "solo porque eres tú.",
+    "text": "Tienes una forma de ser que me encanta bebe, no entiendo que me hiciste pero me tienes bien loquito 💗",
     "note": "Me encantas completita",
     "note2": "Amo cómo eres, mi amor 💗",
     "noteDay": "Me traes bien enamorado, por si no se nota jajaj.",
     "noteNight": "Me traes bien enamorado, por si no se nota jajaj.",
-    "letter": "Mi amor 🥺 no solo me gusta decirte que estás preciosa. También quiero que sepas cuánto admiro a la mujer que eres. Tus ideas, tu humor, tus gustos, todo eso hace que quiera seguir escuchándote. Me encantas así, siendo tú 💗",
+    "letter": "Mi amor 🥺 no solo me gusta decirte que estás preciosa. También quiero que sepas cuánto admiro a la mujer que eres. Tus ideas, tu humor, tus gustos, todo eso hace que quiera seguir escuchándote todos los dias de mi vidaa, asi que creeme que te voy a hacer mi esposa JSAJS \n\n Me encantas así, y aunque aveces dudes de ti, de como te ves o como eres, ve diciendole a tu familia que te voy a robar, que deje de ser secreto lo mucho que te amo y preparate porque te voy a llenar todos los dias y no solo de mis besos 🤭",
     "closing": "Y sí, también me distraen tus ojitos 🤭",
     "effectDay": "leaves",
     "effectNight": "embers",
@@ -431,16 +431,16 @@ window.LOVELYN_CHAPTERS = [
     "sceneNight": "v3-night-yuta-maki",
     "effect": "embers",
     "captions": [
-      "Amo cómo eres, lyncita",
+      "Amo cómo eres, mi lyncita",
       "Te miro y me gustas más",
-      "Qué suerte tengo contigo"
+      "Qué suerte tengo, digo mirate 😻"
     ],
     "photoNotes": [
       "Amo cómo eres, mi amor 💗",
-      "Esos ojitos tuyos sí que me ganaron.",
-      "Me traes bien enamorado, por si no se nota jajaj."
+      "Esos ojitos tuyos me vuelven locooo, asi que por favvor, solo  mirame a mi siempree 🤭",
+      "Me traes bien  loquito por ti mi amor 💗 \n dame bechoooo "
     ],
-    "caption": "Amo cómo eres, lyncita",
+    "caption": "Amo cómo eres, mi lyncita",
     "matching": {
       "you": "assets/matching/yuta-maki-for-you.jpg",
       "me": "assets/matching/yuta-maki-for-me.jpg"
@@ -456,13 +456,13 @@ window.LOVELYN_CHAPTERS = [
     "layout": "center",
     "title": "Una aventura contigo",
     "accent": "sí se me antoja.",
-    "text": "Que podamos hablar de One Piece juntos es algo que me encanta 😭 mi mujer preciosa y encima le gusta mi anime, qué suerte tengo 💗",
-    "note": "Mi compañera de aventuras",
-    "note2": "Anime, algo rico y tú cerquita 💗",
-    "noteDay": "Te quiero a mi ladito, lyncita.",
+    "text": "Que podamos hablar de One Piece juntos es algo que me encanta 😭 mi mujer preciosa y encima conociendola por mi anime favorito? ERES PERFECTAA 💗",
+    "note": "Mi esposita linda 😻",
+    "note2": "Tu eres mi one piece 💗",
+    "noteDay": "Te quiero a mi ladito, mi lyncita.",
     "noteNight": "Te quiero a mi ladito, lyncita.",
-    "letter": "Mi amor, yo quiero esos planes contigo: algo rico, One Piece y escucharte decir qué piensas de cada cosa 🤭 me gusta compartir algo que me encanta con alguien que amo tantooo. Nada más no te rías si me emociono mucho JAJSJS 💗",
-    "closing": "Tú elige la botana, bebé 🤭",
+    "letter": "Hola mi amor, no has olvidado nuestra cita pendiente de un beso por cada capitulo de one piece verdad? 🤭 me gusta compartir algo que me encanta con alguien que amo tanto sabes? Y asi como amo one piece, te amo a ti mi niña hermosa 💗 \n Asi que te prometo que incluso cuando se acabe  one piece, mi amor por ti no acabara nunca, y ya me vi contigo, casados y abrazados en el sofa con la bebe bonita que te voy a hacer 🤭 y lo primero que haria seria ponerla a ver one piece con nosotros mi amoooor.",
+    "closing": "Y si nuestra bebe se parecera a ti mi amor 🤭",
     "effectDay": "sea",
     "effectNight": "stars",
     "transition": "sun",
@@ -470,16 +470,16 @@ window.LOVELYN_CHAPTERS = [
     "sceneNight": "v3-night-luffy-nami",
     "effect": "stars",
     "captions": [
-      "Mi compañera de anime",
-      "Nos vamos juntos, amor",
-      "Contigo sí me apunto jajaj"
+      "Te voy a hacer mami 😻",
+      "Mi mujer preciosa 💗",
+      "Vamos a ver one piece juntos mi amor"
     ],
     "photoNotes": [
-      "Anime, algo rico y tú cerquita 💗",
+      "Chi, lo digo en serio, te voy a hacer el amor tantas veces que sera imposible no hacerte mami 💗 pero obvio nuestra bebe ya tiene nombre elegido y sera tan bonita como tu, solo falta que nazca JASJASJ 🤭",
       "Mi aventura favorita sería ir a verte.",
-      "Te quiero a mi ladito, lyncita."
+      "Te quiero besar mientras te abrazo mi amor 💗"
     ],
-    "caption": "Mi compañera de anime",
+    "caption": "Te amo mi esposita preciosa 💗",
     "matching": {
       "you": "assets/matching/luffy-nami-for-you.jpg",
       "me": "assets/matching/luffy-nami-for-me.jpg"
@@ -495,13 +495,13 @@ window.LOVELYN_CHAPTERS = [
     "layout": "left",
     "title": "Una cita sencilla:",
     "accent": "tú y yo.",
-    "text": "Quiero salir contigo y que se nos haga tarde de tanto caminar y platicar 🥺 bueno, y de detenerme a darte besos también 🤭",
-    "note": "Nos debemos una cita",
-    "note2": "¿Cuándo nos escapamos por algo rico? 💗",
-    "noteDay": "Te voy a presumir mucho, bebelyyyn.",
-    "noteNight": "Te voy a presumir mucho, bebelyyyn.",
-    "letter": "Bebé, no necesito un plan complicadísimo para querer verte. Me gustaría ir por algo rico, preguntarte cómo estás y escucharte sin tener una pantalla en medio. Y cuando sonrías, poder decirte de cerquita lo hermosa que te ves 💗",
-    "closing": "Te aparto mi mano para esa cita 🥺",
+    "text": "Quiero salir contigo y que se nos haga tarde de tanto caminar y platicar 🥺 bueno, y de detenerme a darte besos también preciosaa 🤭",
+    "note": "Yo creo que te voy a robar pronto, pero shh 🤭",
+    "note2": "¿Cuándo nos escapamos juntos bebe? 💗",
+    "noteDay": "Te voy a presumir muchoo mi bebelyyyn.",
+    "noteNight": "Te voy a presumir mucho mi bebelyyyn.",
+    "letter": " Sabes mi amor? no necesito un plan complicadísimo para querer verte. Me gustaría ir por algo rico, preguntarte cómo estás y escucharte sin tener una pantalla en medio. Y cuando sonrías, poder decirte de cerquita lo hermosa que te ves 💗 \n Y claro porque no? me encantaria robarte besos, abrazarte y hablar contigo de cualquier tonteria, incluso tengo la esperanza de algun dia simplemente estar juntos viendo anime abrazaditos 🤭",
+    "closing": "Te besare apenas te vea eh? avisada estas mi amor 🤭",
     "effectDay": "dust",
     "effectNight": "lanterns",
     "transition": "light",
@@ -509,16 +509,16 @@ window.LOVELYN_CHAPTERS = [
     "sceneNight": "v3-night-emma-draken",
     "effect": "lanterns",
     "captions": [
-      "Nos falta una cita así",
-      "Te quiero de la manita",
-      "Me debes muchos besitos"
+      "YA QUIERO VERTEE MI AMOOOR 💗",
+      "Mi chaparrita preciosa 😻",
+      "Me debes muchos besitos eh? 🤭"
     ],
     "photoNotes": [
-      "¿Cuándo nos escapamos por algo rico? 💗",
-      "Tu manita en la mía, por favor.",
-      "Te voy a presumir mucho, bebelyyyn."
+      "No le digas a nadie pero te voy a robar para mi cumpleaños mi amor 💗 \n Y mi plan es no devolverte, aunque si lo hago seguro sera ya toda panzona 🤭",
+      "Te extraño mucho siempre que no estas mi amor, pero soy el mas feliz del mundo apenas te tengo de nuevo 💗",
+      "Te voy a presumir mucho mi amor, aunque no tanto, solo yo puedo verte mi amooor 🤭 recuerda que eres miaaa."
     ],
-    "caption": "Nos falta una cita así",
+    "caption": "Nos besamos? Te invito 💗",
     "matching": {
       "you": "assets/matching/emma-draken-for-you.jpg",
       "me": "assets/matching/emma-draken-for-me.jpg"
@@ -532,14 +532,14 @@ window.LOVELYN_CHAPTERS = [
     "anime": "Fullmetal Alchemist: Brotherhood",
     "theme": "copper",
     "layout": "center",
-    "title": "También me gustan",
-    "accent": "los días normales contigo.",
-    "text": "Me ilusiona compartir contigo cosas sencillas, mi amor. Hasta decidir qué vamos a comer se me hace un plan bonito si estás tú 💗",
-    "note": "Para mi mujer increíble",
-    "note2": "Un día cualquiera, pero contigo 💗",
-    "noteDay": "Yo feliz de escucharte otro ratito.",
-    "noteNight": "Yo feliz de escucharte otro ratito.",
-    "letter": "Jocelyn 🥺 me gusta imaginar esos días en los que podamos estar juntos sin tener que hacer algo especial. Tú contándome algo, yo buscándote un abrazo, y los dos viendo qué se nos antoja. Quiero conocerte también en esos momentos 💗",
+    "title": "Tantas cosas lindas que hay",
+    "accent": "y yo tengo la mejor de todas.",
+    "text": "Me ilusiona mucho pasar toda mi vida amandote mi amor, y asi que como winry le dio a edward, yo tambien te doy mi vida entera si tu me das la tuya 💗",
+    "note": "Para mi esposita linda 😻",
+    "note2": "Te voy a morder 🤭",
+    "noteDay": "Yo feliz de escuchar tu voz siempre.",
+    "noteNight": "Yo feliz de escuchar tu voz siempre.",
+    "letter": "HOLAAA MI AMOOOR \n JASJAS sabes que estos de aqui me encantan, y seguire diciendo que somos tu y yo, porque te amo demasiado, incluso mas de lo que edward ama a winry, yo te prometo hacer un intercambio equivalente contigo, te dare toda mi vida entera si tu me das la tuya, asi que mi jocelyn preciosa 🤭 nunca olvides lo mucho que te amo, y siempre que te sientas triste o mal contigo misma, visita este o cualquiera de los regalos que te he hecho para sentirte mejor 💗 aunque prefiero mil veces, que vengas conmigo y me dejes consolarte, llenarte de besos y decirte lo mucho, MUCHOOOOO que te amo mi amor 🤭",
     "closing": "Por mí, hoy comemos lo que tú quieras 🤭",
     "effectDay": "dust",
     "effectNight": "fireflies",
@@ -548,16 +548,16 @@ window.LOVELYN_CHAPTERS = [
     "sceneNight": "v3-night-edward-winry",
     "effect": "fireflies",
     "captions": [
-      "Ya quiero verte, amor",
-      "Me quedo otro ratito",
-      "Qué bonito sería contigo"
+      "Te amo mi esposita preciosa 🤭",
+      "Quiero llenarte de mi amor 💗",
+      "Y si nos besamoa? 🤭"
     ],
     "photoNotes": [
-      "Un día cualquiera, pero contigo 💗",
-      "Me gusta seguir conociéndote, lyncita.",
-      "Yo feliz de escucharte otro ratito."
+      "Ya quiero casarme contigo 🤭 no sabes cuantas ganas tengo de decirle al mundo entero que eres miaaaa 💗 ",
+      "Me gusta seguir conociéndote cada dia mi lyncita hermosa 🤭",
+      "Chi vamos a besarnos JSJASJ, por llamada si? quien sabe capaz y te hago el amor ahi mismo 🤭"
     ],
-    "caption": "Ya quiero verte, amor",
+    "caption": "Ya quiero verte mi amor",
     "matching": {
       "you": "assets/matching/edward-winry-for-you.jpg",
       "me": "assets/matching/edward-winry-for-me.jpg"
@@ -571,15 +571,15 @@ window.LOVELYN_CHAPTERS = [
     "anime": "Attack on Titan",
     "theme": "meadow",
     "layout": "right",
-    "title": "Aquí te guardé",
-    "accent": "un ratito tranquilo.",
-    "text": "A veces quisiera poder abrazarte justo cuando me dices que me extrañas 🥺 mientras llega ese momento, aquí te dejo un poquito de mi amor 💗",
-    "note": "Contigo quiero cosas bonitas",
+    "title": "Eres todo",
+    "accent": "lo que siepre soñé.",
+    "text": "A veces quisiera poder abrazarte justo cuando me dices que me extrañas o que me amas 🥺 me encantas jocelyn, eres mi vida entera, y te amo tanto que aveces me cuesta contenerme JAJSJA 🤭",
+    "note": "Contigo me siento completo, mi amor 💗",
     "note2": "Te debo un abrazo y como mil besitos 💗",
-    "noteDay": "Nosotros sí vamos a escribir algo bonito.",
-    "noteNight": "Nosotros sí vamos a escribir algo bonito.",
-    "letter": "Mi niña, si hoy necesitas cariño, esta notita es para ti 🥺 quisiera poder sentarme a tu lado y escucharte, o simplemente quedarme contigo si no tienes ganas de hablar. Te amo mucho, y me importa cómo estás, incluso en los días difíciles 💗",
-    "closing": "Te mando un abrazo de esos que duran 🥺",
+    "noteDay": "Ola hermosa, nos besamos mucho? 🤭",
+    "noteNight": "Ola hermosa, nos besamos mucho? 🤭",
+    "letter": "Mi niña hermosa, se que este regalo es muy largo JSJAJS, y lo lamento, pero quiero que sepas que te amo y te adoro, y que siempre lo hare, quiero ser tu hombre toda la vidda y me esforzare para ser mejor cada dia solo por ti, asi que por favor quedate a mi lado siempre, porque yo soy muy debil y tonto y asi como eren yo no quiero verte con nadie mas nunca, yo quiero que seas mia, para siempreeee 🤭 \n\n Te amo tanto mi bebe hermosa, dejame estar contigo siempre, decirte te amo y darte muchos besos todos los dias, y yo te prometo que siempre estare a tu lado, cuidandote, amandote y nunca de los nuncas te dejare sola mi amor.",
+    "closing": "Te mando un beso mi amor, me lo devuelves? 🥺",
     "effectDay": "leaves",
     "effectNight": "stars",
     "transition": "breeze",
@@ -587,16 +587,16 @@ window.LOVELYN_CHAPTERS = [
     "sceneNight": "v3-night-eren-mikasa",
     "effect": "stars",
     "captions": [
-      "Ven, aquí a mi ladito",
+      "Ven, yo te abrazo y no te suelto",
       "Te extraño, bebelyyyn",
-      "Te abrazo y no te suelto"
+      "Te amo mi lyynn preciosa 💗"
     ],
     "photoNotes": [
-      "Te debo un abrazo y como mil besitos 💗",
-      "Qué ganas de tenerte aquí, mi amor.",
-      "Nosotros sí vamos a escribir algo bonito."
+      "Te amo demasiado lo sabias? y se que aunque las cosas se pongan dificiles, todas las quiero pasar y superar a tu lado 💗",
+      "Qué ganas de tenerte aquí mi amor, sabes que te haria? 🤭",
+      "Sabes? Amo tu piel, tus labios, tus ojitos, tu carita, tu voz y tu cuerpazoo 🤭 \n\n Pero aun asi, me enamore de ti incluso antes de verte y es por eso que estoy tan feliz de tener una mujer que no solo me encanta y amo por dentro, si no que ademas tengoo a la mujer mas preciosaaa del mundoo 🤭"
     ],
-    "caption": "Ven, aquí a mi ladito",
+    "caption": "Ven mi amor te besare 🤭",
     "matching": {
       "you": "assets/matching/eren-mikasa-for-you.jpg",
       "me": "assets/matching/eren-mikasa-for-me.jpg"
