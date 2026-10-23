@@ -32,7 +32,7 @@ window.LOVELYN_CHAPTERS = [
     "photoNotes": [
       "Amo tus ojitos hermosos 💗",
       "De pies a cabeza, mi amor. Todo de ti me encanta.",
-      "yo pensaba que mitsuri ya era linda, pero desde que te vi, me he dado cuenta de que eres la mujer más hermosa, y le ganas por mucho 💗 aveces ni yo me creo que todo eso me ando comiendo a besos 🤭"
+      "Yo pensaba que mitsuri ya era linda, pero desde que te vi, me he dado cuenta de que eres la mujer más hermosa, y le ganas por mucho 💗 aveces ni yo me creo que todo eso me ando comiendo a besos 🤭"
     ],
     "effectDay": "petals",
     "effectNight": "petals",
@@ -139,7 +139,7 @@ window.LOVELYN_CHAPTERS = [
     "poem": "Tú, sin pecado, eres como el sol.\nTú, incluso con pecado, eres como el sol.",
     "note": "En esta vida y en las que me dejaran, mi amor 💗",
     "caption": "Yo también te miro así",
-    "letter": "Mwaaak, cómo estás cariño? 🥺 quería dedicarte este poema, porque para mí de verdad eres como el sol, incluso con todo lo que tú puedas ver mal en ti, iluminas mi vida día con día, me apoyas y me amas 💗 lo mínimo que yo puedo hacer es darte este tipo de cosas para que sepas lo mucho que te amo y lo mucho que agradezco tu compañía 🥺, que no se te olvide mi amor, te amo con todoooo mi corazoncito, soy tuyo princesa, y gracias a dios soy el único afortunado de decir que esa mujer tan hermosa es mía 🤭\n\nMe gusta mucho esta pareja, son muy lindos, y al igual que orihimi, si yo renaciera y tuviera 5 vidas distintas, habría hecho muchas cosas distintas, pero estaría feliz porque se que en esas 5 vidas, me habría enamorado de ti y solo de ti 💗 te amo, y yo digo que si nos parecemos 🥺 me acuerdo de tu cabello cobrizo y de los demás tonos que has tenido y pienso que si te pareces a orihime, pero mi mujer preciosa siempre va a ser mi favorita 😻 JAJSJS, te amo 💗",
+    "letter": "Mwaaak, cómo estás cariño? 🥺 quería dedicarte este poema, porque para mí de verdad eres como el sol, incluso con todo lo que tú puedas ver mal en ti, iluminas mi vida día con día, me apoyas y me amas 💗 lo mínimo que yo puedo hacer es darte este tipo de cosas para que sepas lo mucho que te amo y lo mucho que agradezco tu compañía 🥺, que no se te olvide mi amor, te amo con todoooo mi corazoncito, soy tuyo princesa, y gracias a dios soy el único afortunado de decir que esa mujer tan hermosa es mía 🤭\n\nMe gusta mucho esta pareja, son muy lindos, y al igual que orihime, si yo renaciera y tuviera 5 vidas distintas, habría hecho muchas cosas distintas, pero estaría feliz porque se que en esas 5 vidas, me habría enamorado de ti y solo de ti 💗 te amo, y yo digo que si nos parecemos 🥺 me acuerdo de tu cabello cobrizo y de los demás tonos que has tenido y pienso que si te pareces a orihime, aunque ya sea en lo hermosa, o en chichis, tu le ganas a ella y a todas 😻 JAJSJS, te amo 💗",
     "closing": "“Me enamoraría de la misma persona cinco veces.” — Orihime",
     "note2": "Esos labios tuyos me traen bien enamorado 🤭",
     "sceneNight": "v2-ichihime",
@@ -220,24 +220,24 @@ window.LOVELYN_CHAPTERS = [
     "text": "Ese rosita tuyo me trae bien enamorado 🤭 y aunque mañana te lo pintes de otro color, ya sé que voy a querer presumirte igual 💗",
     "note": "Mi lyncita de cabello rosita",
     "caption": "Ese rosita te queda hermoso",
-    "letter": "Mi amor 🥺 aquí volvió a salir el cabello rosita JAJSJS. Pero sabes qué me gusta más? Que debajo de todos esos colores sigues siendo tú, mi niña divertida, la que siempre tiene algo que contarme y me deja sonriendo al teléfono. Te adoro Jocelyn 💗",
+    "letter": "Mi amor 🥺 aquí volvió a salir el cabello rosita JAJSJS. Pero sabes qué me gusta más? Que debajo de todos esos colores sigues siendo tú, mi niña divertida, la que siempre tiene algo que contarme y me deja sonriendo al teléfono. Te adoro mi amor 💗 y me encantas como no tienes idea, justo por eso te voy a hacer un bebe JSJASJA",
     "closing": "Te debo un beso en la frente, princesa.",
     "note2": "Tú y tu cabello rosita me encantan 💗",
     "sceneNight": "v2-sasusaku",
     "effect": "embers",
     "transition": "ink",
     "captions": [
-      "Ese rosita te queda hermoso",
+      "Ti siempre estas hermosa",
       "Ven, te quiero cerquita",
-      "Yo sí te presumo, amor"
+      "Yo sí te presumo mi amor"
     ],
     "sceneDay": "v3-day-sasusaku",
     "noteDay": "Qué preciosa estás, mi amor.",
     "noteNight": "Qué preciosa estás, mi amor.",
     "photoNotes": [
-      "Tú y tu cabello rosita me encantan 💗",
+      "Tú y tu cabello me encantan 💗",
       "Un besito y luego otro, pq uno no me alcanza.",
-      "Qué preciosa estás, mi amor."
+      "Qué preciosa estás mi amor a ver besame 😭"
     ],
     "effectDay": "embers",
     "effectNight": "embers",
@@ -257,17 +257,17 @@ window.LOVELYN_CHAPTERS = [
     "layout": "center",
     "title": "Contigo me río",
     "accent": "bien bonito.",
-    "text": "Contigo puedo pasar de decirte algo romántico a reírme como tonto 😭 me gusta mucho eso de nosotros, bebé 💗",
+    "text": "Contigo puedo pasar de decirte algo romántico a reírme como tonto 😭 me gusta mucho eso de ti mi amor, y es una cosa msa que amo de ti 💗",
     "note": "Mi persona para reírnos de todo",
     "caption": "Tú me haces reír así",
     "letter": "Oye mi amor, yo sí quiero que nos sigamos haciendo reír así 🤭 que me cuentes tus ocurrencias, que nos burlemos de nuestras tonterías y que después me dejes abrazarte. De verdad adoro lo divertida que eres, nunca cambies esa parte tan linda de ti 💗",
     "closing": "Mi compañera de tonterías favorita 🤭",
-    "note2": "Me encanta lo divertida que eres jajaj 💗",
+    "note2": "Me encanta lo divertida que eres 💗",
     "sceneNight": "v2-risa-otani",
     "effect": "hearts",
     "transition": "paper",
     "captions": [
-      "Tú me haces reír así",
+      "Tú me haces sonreir siempre 💗",
       "Me gustas hasta enojadita",
       "Ven, dame un besito"
     ],
@@ -278,9 +278,9 @@ window.LOVELYN_CHAPTERS = [
     "noteDay": "Nos faltan muchas tonterías por hacer juntos.",
     "noteNight": "Nos faltan muchas tonterías por hacer juntos.",
     "photoNotes": [
-      "Me encanta lo divertida que eres jajaj 💗",
-      "Tú ríete, que yo te sigo mirando todo enamorado.",
-      "Nos faltan muchas tonterías por hacer juntos."
+      "Me encanta lo divertida que eres 💗",
+      "Sonrie mas amor, te descuidas y te robo un besito 🤭",
+      "De verdad esa mujer tan lindota es mia? 🥺"
     ],
     "effectDay": "hearts",
     "effectNight": "hearts",
@@ -300,12 +300,12 @@ window.LOVELYN_CHAPTERS = [
     "layout": "center",
     "title": "De todas las cosas raras,",
     "accent": "qué bonito encontrarte.",
-    "text": "Me encanta tener a quién mandarle las cosas raras que encuentro JAJSJS y que esa persona sea mi mujer preciosa, todavía más 🤭",
+    "text": "Me encanta que contigo puedo ser yo mismo JAJSJS y incluso si soy raro adoro que que esa persona que siempre esta para mi sea mi mujer preciosa, todavía más 🤭",
     "note": "Tú y yo haciendo de las nuestras",
     "caption": "Tú y yo jajaj 💗",
-    "letter": "Bebelyyyn 🥺 estos dos me dan mucha risa, por eso quería ponerlos aquí. Me gusta imaginarte comentando cada escena conmigo, haciendo tus caras y riéndote. Al final seguro te preguntaría algo del capítulo porque me distraje mirándote a ti 😭💗",
-    "closing": "Sí te estaba poniendo atención… a tu carita 🤭",
-    "note2": "Mi compañera para ver anime 💗",
+    "letter": "Bebelyyyn 🥺 estos dos me dan mucha risa, por eso quería ponerlos aquí. Me gusta imaginarte comentando cada escena conmigo, haciendo caras juntos y riendonos de todo. Al final seguro te preguntaría algo del capítulo porque me distraje mirándote a ti 💗 pero  que sepas que tu siempre seras mi persona favorita, porque contigo puedo ser como soy, y te amo demasiado, gracias por aguantarme mi amor, ojala pronto en lugar de aguantar mis palabras tengas que aguantar mis besos mwaak",
+    "closing": "Sí estaba poniendo atención…  pero a tu carita 🤭",
+    "note2": "Te amo mi bebe hemocha 💗",
     "sceneNight": "v2-momo-okarun",
     "effect": "orbits",
     "transition": "portal",
@@ -318,9 +318,9 @@ window.LOVELYN_CHAPTERS = [
     "noteDay": "Me gustas demasiado, bebelyyyn.",
     "noteNight": "Me gustas demasiado, bebelyyyn.",
     "photoNotes": [
-      "Mi compañera para ver anime 💗",
-      "Hasta en una aventura rara te pediría un besito jajaj.",
-      "Me gustas demasiado, bebelyyyn."
+      "Te amo demasiado 💗",
+      "Hasta en un momento raro te pediría un besito jajaj.",
+      "Me gustas, se mi novia chi?."
     ],
     "effectDay": "orbits",
     "effectNight": "orbits",
@@ -339,7 +339,7 @@ window.LOVELYN_CHAPTERS = [
     "layout": "left",
     "title": "Un lugar bonito,",
     "accent": "si estás tú.",
-    "text": "Amo tu piel morenita y tus ojos, mi amor 🥺 pero lo que más me tiene aquí es esa forma tan linda de ser que tienes 💗",
+    "text": "Amo tu piel morenita y tus ojos, mi amor 🥺 pero lo que más enamorado me tiene es esa forma tan linda de ser que tienes 💗",
     "note": "Un abrazo de esos que me faltan",
     "note2": "Ven, que te debo muchos abrazos 💗",
     "noteDay": "Eres preciosa de pies a cabeza, mi amor.",
@@ -867,7 +867,7 @@ window.LOVELYN_CHAPTERS = [
     "effectNight": "fireflies",
     "transition": "light",
     "captions": [
-      "Contigo sí, bebelyyyn",
+      "Contigo si a todo mi amor",
       "Qué bonito tenerte",
       "Mis besitos son tuyos 💗"
     ],
