@@ -730,7 +730,7 @@ window.LOVELYN_CHAPTERS = [
     "anime": "Kamisama Kiss",
     "theme": "shrine",
     "layout": "right",
-    "title": "No hacía falta una razón",
+    "title": "No hace falta una razón",
     "accent": "para pensar en ti.",
     "text": "Te conocí, me gustaste, seguí hablando contigo y ahora mírame 😭 haciéndote regalos porque no sé dejar de pensar en ti 💗",
     "note": "Cómo me gustas, Jocelyn",
